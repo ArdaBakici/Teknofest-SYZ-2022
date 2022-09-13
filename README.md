@@ -1,5 +1,10 @@
-# **DiagnosisByAI** *Teknofest 2022 Winner*
-## Codes of the team **DiagnosisByAI** winner of Teknofest 2022 Artifical Intelligence in Health Competition Disease Detection with Computer Vision Category High School Level
+<img align="left" src="https://upload.wikimedia.org/wikipedia/tr/1/1d/Teknofest_logo.png">  
+
+# **DiagnosisByAI**
+# *Teknofest 2022 Winner*
+Codes of the team **DiagnosisByAI** winner of Teknofest 2022 Artifical Intelligence in Health Competition Disease Detection with Computer Vision Category High School Level
+
+<br>
 
 ## Model Artitechture
 
