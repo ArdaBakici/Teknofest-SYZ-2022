@@ -2,7 +2,7 @@
 
 # **DiagnosisByAI**
 # *Teknofest 2022 Winner*
-Codes of the team **DiagnosisByAI** winner of Teknofest 2022 Artifical Intelligence in Health Competition Disease Detection with Computer Vision Category High School Level
+Codes of the team ***DiagnosisByAI*** winner of Teknofest 2022 Artifical Intelligence in Health Competition Disease Detection with Computer Vision Category High School Level
 
 <br>
 
