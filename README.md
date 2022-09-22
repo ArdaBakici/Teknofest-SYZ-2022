@@ -6,22 +6,27 @@ Codes of the team ***DiagnosisByAI*** winner of Teknofest 2022 Artifical Intelli
 
 <br>
 
-## Model Architecture
 
-## Contents
-manager.ipynb -> Main Python notebook  
-converter.ipynb -> Python notebook for converting DICOM to JPG  
-detect1.py -> Acute Appendicitis Detecting Model Codes  
-detect2.py -> Acute Cholecystitis Detecting Model Codes  
-detect3.py -> Acute Pancreatitis Detecting Model Codes  
-detect4.py -> Kidney and Bladder Stone Detecting Model Codes  
-detect5.py -> Acute Diverticulitis Detecting Model Codes  
-detect6.py -> Acute Aortic Aneurysm and Dissection Detecting Model Codes  
-/weights -> put model weights here (weights should have the same names with example txt files)  
-/utils -> Scaled YOLOv4 util codes (taken from ![Scaled YOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4))  
-/models -> Scaled YOLOv4 model codes (taken from ![Scaled YOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4))  
-/dicom2jpg -> library for converting dicom to jpg (taken from ![dicom2jpg](https://github.com/ykuo2/dicom2jpg) with minor modifications)  
-/output -> folder where results are saved
+## Model Architecture
+<p align="center" style="background:white;">
+<img src="https://github.com/ArdaBakici/Teknofest-SYZ-2022/blob/main/Photos/architecture.png" height=393 width=522>
+</p>
+<br>  
+
+## Contents  
+**manager.ipynb** -> Main Python notebook  
+**converter.ipynb** -> Python notebook for converting DICOM to JPG  
+**detect1.py** -> Acute Appendicitis Detecting Model Codes  
+**detect2.py** -> Acute Cholecystitis Detecting Model Codes  
+**detect3.py** -> Acute Pancreatitis Detecting Model Codes  
+**detect4.py** -> Kidney and Bladder Stone Detecting Model Codes  
+**detect5.py** -> Acute Diverticulitis Detecting Model Codes  
+**detect6.py** -> Acute Aortic Aneurysm and Dissection Detecting Model Codes  
+**/weights** -> put model weights here (weights should have the same names with example txt files)  
+**/utils** -> Scaled YOLOv4 util codes (taken from ![Scaled YOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4))  
+**/models** -> Scaled YOLOv4 model codes (taken from ![Scaled YOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4))  
+**/dicom2jpg** -> library for converting dicom to jpg (taken from ![dicom2jpg](https://github.com/ykuo2/dicom2jpg) with minor modifications)  
+**/output** -> folder where results are saved
 
 ## How to Use ?
 1- Put your dicom files inside a input folder  
@@ -29,3 +34,7 @@ detect6.py -> Acute Aortic Aneurysm and Dissection Detecting Model Codes
 3- Run manager.ipynb on output folder of converter.ipynb  
 4- Wait...  
 5- Your results are ready
+
+## How to get model weights?
+Since Github doesn't allow files larger than 100 MB, you can't find model weights here. For model weights please email me at ardabkc@gmail.com.
+
