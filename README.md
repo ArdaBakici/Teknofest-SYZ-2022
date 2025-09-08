@@ -3,6 +3,7 @@
 # **DiagnosisByAI**
 # *Teknofest 2022 Winner*
 Codes of the team ***DiagnosisByAI*** winner of Teknofest 2022 Artifical Intelligence in Health Competition Disease Detection with Computer Vision Category High School Level
+@ArdaBakici @ally4n
 
 <br>
 
@@ -37,4 +38,5 @@ Codes of the team ***DiagnosisByAI*** winner of Teknofest 2022 Artifical Intelli
 
 ## How to get model weights?
 Since Github doesn't allow files larger than 100 MB, you can't find model weights here. For model weights please email me at ardabkc@gmail.com.
+
 
